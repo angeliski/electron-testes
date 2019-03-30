@@ -1,0 +1,16 @@
+{
+  "name": "electron-testes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "export XDG_CURRENT_DESKTOP=Unity && electron ."
+  },
+  "keywords": [],
+  "author": "Rogerio Angeliski <angeliski@hotmail.com> (https://github.com/angeliski)",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^1.4.15"
+  }
+}
