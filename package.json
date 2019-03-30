@@ -11,6 +11,6 @@
   "author": "Rogerio Angeliski <angeliski@hotmail.com> (https://github.com/angeliski)",
   "license": "MIT",
   "dependencies": {
-    "electron": "^1.4.15"
+    "electron": "^4.1.3"
   }
 }
